@@ -1,5 +1,11 @@
 # UTokyo_CNN_MRI
-MRI data CNN controller. 
+MRI data CNN controller follow-up procedures.
+- Adding more convolutional layers to the CNN.
+- Incorporating Batch Normalization for better convergence.
+- Using Callbacks for early stopping and model checkpoints.
+- Adding visualization for feature maps after pooling.
+- Visualizing gradient updates during training.
+- Implementing a custom callback to visualize optimization progress.
 ---
 # Modular CNN for MRI and MNIST Data
 
